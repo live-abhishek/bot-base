@@ -1,0 +1,19 @@
+{
+    "name": "base-bot",
+    "version": "1.0.0",
+    "description": "This is base bot",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "botbuilder": "^3.13.1",
+        "bunyan": "^1.8.12",
+        "dotenv-extended": "^2.0.1",
+        "express": "^4.16.2",
+        "moment": "^2.19.3",
+        "pug": "^2.0.0-rc.4",
+        "serve-favicon": "^2.4.5"
+    }
+}
